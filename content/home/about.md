@@ -10,30 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computational Social Science",
+    "Natural Language Processing",
+    "Political Sociology",
+    "Social Media",
+    "Ethnic Minority Studies"
   ]
 
 # List your qualifications (such as academic degrees).
-# [[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
-#
-# [[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
-#
-# [[education.courses]]
-#  course = "BSc in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2008
- 
+
+
+ [[education.courses]]
+  course = "M.A. Sociology, Specialization in Empirical Research and Computational Methods"
+  institution = "University of Bamberg"
+  year = 2016
+  
+ [[education.courses]]
+  course = "B.A. Sociology, Specialization in Labor Studies"
+  institution = "University of Bamberg"
+  year = 2013
+
 +++
 
-# Biography
+# About
 
 I am PhD candidate in the field of Computational Social Science and a lecturer for the Chair of Political Sociology at University of Bamberg. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
 

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carsten Schwemmer on Carsten Schwemmer</title>
-    <link>https://www.carstenschwemmer.com/</link>
+    <link>/</link>
     <description>Recent content in Carsten Schwemmer on Carsten Schwemmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,66 +12,83 @@
     
     <item>
       <title>test post</title>
-      <link>https://www.carstenschwemmer.com/post/test-post/</link>
+      <link>/post/test-post/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/post/test-post/</guid>
+      <guid>/post/test-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Sellout - The Increasing Role of Product Promotion on YouTube</title>
+      <link>/publication/youtubesellout2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/youtubesellout2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terror Management and Twitter: The Case of the 2016 Berlin Terrorist Attack</title>
+      <link>/publication/fischer2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fischer2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Candidate Selection Rules and Electoral Vulnerability on Legislative Behavior in Comparative Perspective</title>
+      <link>/publication/fernandes2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fernandes2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment</title>
+      <link>/publication/jungkunz2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jungkunz2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Reconstruction of Parliamentary Questions. Combining Metadata with an OCR Process</title>
+      <link>/publication/fitsilissaalfeldschwemmer2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fitsilissaalfeldschwemmer2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Election proximity and representation focus in party-constrained environments</title>
+      <link>/publication/fernandesbandeiraschwemmer2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fernandesbandeiraschwemmer2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://www.carstenschwemmer.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://www.carstenschwemmer.com/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://www.carstenschwemmer.com/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://www.carstenschwemmer.com/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
-      <link>https://www.carstenschwemmer.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -105,7 +122,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://www.carstenschwemmer.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -115,12 +132,22 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://www.carstenschwemmer.com/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>facerec</title>
+      <link>/software/facerec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/software/facerec/</guid>
+      <description>&lt;p&gt;Provides an interface to the &amp;lsquo;Kairos&amp;rsquo; Face Recognition API &lt;a href=&#34;https://kairos.com/face-recognition-api&#34; target=&#34;_blank&#34;&gt;https://kairos.com/face-recognition-api&lt;/a&gt;. The API detects faces in images and returns estimates for demographics like gender, ethnicity and age.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>stminsights</title>
+      <link>/software/stminsights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/software/stminsights/</guid>
+      <description>&lt;p&gt;This app enables interactive validation, interpretation and visualization of structural topic models from the &amp;lsquo;stm&amp;rsquo; package by Roberts and others (2014) &lt;a href=&#34;doi:10.1111/ajps.12103&#34; target=&#34;_blank&#34;&gt;doi:10.1111/ajps.12103&lt;/a&gt;. It also includes helper functions for model diagnostics and extracting data from effect estimates.&lt;/p&gt;
 </description>
     </item>
     
