@@ -36,4 +36,4 @@ weight = 5
 
 I am PhD candidate in the field of Computational Social Science and a lecturer for the Chair of Political Sociology at University of Bamberg. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
 
-In addition to research, I am an experienced lecturer and teach courses about Data Analysis, Data Mining and Quantitative Text Analysis at  University of Bamberg and Humboldt University of Berlin.
+In addition to research, I teach courses about Data Analysis, Data Mining and Quantitative Text Analysis at  University of Bamberg and Humboldt University of Berlin.

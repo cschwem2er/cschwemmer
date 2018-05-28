@@ -6,7 +6,7 @@
 title = "stminsights"
 
 # Project summary to display on homepage.
-summary = "A Shiny Application for Inspecting Structural Topic Models"
+summary = "A Shiny Application for Structural Topic Models"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "stminsights_interface.png"

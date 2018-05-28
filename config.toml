@@ -66,7 +66,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "polsoz_bild_cs.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "c.schwem2er@gmail.com"
-  address = "Chair of Political Sociology, Feldkirchenstr. 21, University of Bamberg, Germany"
+  address = "Chair of Political Sociology, Feldkirchenstr. 21, University of Bamberg, 96052 Germany"
   office_hours = ""
   phone = ""
   skype = ""
@@ -98,10 +98,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "49.907823"
+  longitude = "10.904840"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -117,7 +117,7 @@ enableGitInfo = false
   comment_count = false
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -199,7 +199,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
@@ -286,11 +286,6 @@ enableGitInfo = false
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
-
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
 
 [[menu.main]]
   name = "Software"
