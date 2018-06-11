@@ -9,6 +9,7 @@ abstract = "We study ethnic discrimination in the sharing economy using the exam
 image_preview = ""
 selected = false
 projects = []
+url_preprint = "https://osf.io/preprints/socarxiv/gefsx"
 math = true
 highlight = true
 [header]
