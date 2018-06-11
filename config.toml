@@ -294,7 +294,7 @@ enableGitInfo = true
   
    [[menu.main]]
   name = "CV"
-  url = "/files/cv_schwemmer_carsten_may2018.pdf"
+  url = "/files/cv_schwemmer_carsten.pdf"
   weight = 6
 
 [[menu.main]]
