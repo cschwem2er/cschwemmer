@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carsten Schwemmer on Carsten Schwemmer</title>
-    <link>/</link>
+    <link>https://www.carstenschwemmer.com/</link>
     <description>Recent content in Carsten Schwemmer on Carsten Schwemmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,85 +11,94 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ride with Me - Ethnic Discrimination, Social Markets and the Sharing Economy</title>
+      <link>https://www.carstenschwemmer.com/publication/tjaden2018/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carstenschwemmer.com/publication/tjaden2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Media Sellout - The Increasing Role of Product Promotion on YouTube</title>
-      <link>/publication/youtubesellout2018/</link>
+      <link>https://www.carstenschwemmer.com/publication/youtubesellout2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/youtubesellout2018/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/youtubesellout2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terror Management and Twitter: The Case of the 2016 Berlin Terrorist Attack</title>
-      <link>/publication/fischer2018/</link>
+      <link>https://www.carstenschwemmer.com/publication/fischer2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fischer2018/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/fischer2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Candidate Selection Rules and Electoral Vulnerability on Legislative Behavior in Comparative Perspective</title>
-      <link>/publication/fernandes2018/</link>
+      <link>https://www.carstenschwemmer.com/publication/fernandes2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fernandes2018/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/fernandes2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment</title>
-      <link>/publication/jungkunz2018/</link>
+      <link>https://www.carstenschwemmer.com/publication/jungkunz2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jungkunz2018/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/jungkunz2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Reconstruction of Parliamentary Questions. Combining Metadata with an OCR Process</title>
-      <link>/publication/fitsilissaalfeldschwemmer2017/</link>
+      <link>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fitsilissaalfeldschwemmer2017/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election proximity and representation focus in party-constrained environments</title>
-      <link>/publication/fernandesbandeiraschwemmer2017/</link>
+      <link>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fernandesbandeiraschwemmer2017/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>https://www.carstenschwemmer.com/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>https://www.carstenschwemmer.com/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>facerec</title>
-      <link>/software/facerec/</link>
+      <link>https://www.carstenschwemmer.com/software/facerec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/software/facerec/</guid>
+      <guid>https://www.carstenschwemmer.com/software/facerec/</guid>
       <description>&lt;p&gt;Provides an interface to the &amp;lsquo;Kairos&amp;rsquo; Face Recognition API &lt;a href=&#34;https://kairos.com/face-recognition-api&#34; target=&#34;_blank&#34;&gt;https://kairos.com/face-recognition-api&lt;/a&gt;. The API detects faces in images and returns estimates for demographics like gender, ethnicity and age.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>stminsights</title>
-      <link>/software/stminsights/</link>
+      <link>https://www.carstenschwemmer.com/software/stminsights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/software/stminsights/</guid>
+      <guid>https://www.carstenschwemmer.com/software/stminsights/</guid>
       <description>&lt;p&gt;This app enables interactive validation, interpretation and visualization of structural topic models from the &amp;lsquo;stm&amp;rsquo; package by Roberts and others (2014) &lt;a href=&#34;doi:10.1111/ajps.12103&#34; target=&#34;_blank&#34;&gt;doi:10.1111/ajps.12103&lt;/a&gt;. It also includes helper functions for model diagnostics and extracting data from effect estimates.&lt;/p&gt;
 </description>
     </item>

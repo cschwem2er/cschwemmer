@@ -14,7 +14,7 @@ copyright = "&copy; 2018 Carsten Schwemmer"
 
 theme = "hugo-academic"
 enableEmoji = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
