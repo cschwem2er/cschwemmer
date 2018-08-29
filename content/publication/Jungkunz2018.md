@@ -13,9 +13,7 @@ url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1177/1468796818757264"}
 url_preprint = "https://osf.io/preprints/socarxiv/eykw2"
 math = true
 highlight = true
-
-[header]
-image = ""
+image = "xenophobia_paris.png"
 caption = ""
 +++
 

@@ -12,8 +12,7 @@ projects = []
 url_custom = [{name = "DOI", url = "http://dx.doi.org/10.18638/scieconf.2017.5.1.448 "}]
 math = true
 highlight = true
-[header]
-image = ""
+image = "greece_wordcloud.jpg"
 caption = ""
 +++
 

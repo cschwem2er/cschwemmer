@@ -13,8 +13,7 @@ math = true
 highlight = true
 url_preprint = "https://osf.io/preprints/socarxiv/964dc"
 url_pdf = "https://iscram2018.rit.edu/sites/rit.edu.iscram2018/files/docs/2018_ISCRAM_Conference_Proceedings.pdf"
-[header]
-image = ""
+image = "berlin_hourly_timeline.png"
 caption = ""
 +++
 

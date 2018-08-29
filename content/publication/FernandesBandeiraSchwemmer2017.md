@@ -13,8 +13,7 @@ url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1177/1354068817689955"}
 url_preprint = "https://osf.io/preprints/socarxiv/usfbd"
 math = true
 highlight = true
-[header]
-image = ""
+image = "portugal_pqs.png"
 caption = ""
 +++
 
