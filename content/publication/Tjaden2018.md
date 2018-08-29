@@ -14,7 +14,7 @@ url_preprint = "https://osf.io/preprints/socarxiv/gefsx"
 math = true
 highlight = true
 [header]
-image = ""
+image = "blablainterface_june2018.png"
 caption = ""
 +++
 
