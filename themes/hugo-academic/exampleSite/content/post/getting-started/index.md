@@ -5,12 +5,14 @@ date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
 draft = false
 
-tags = ["academic"]
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+tags = ["Academic"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 [header]
-image = "headers/getting-started.png"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 
 [[gallery_item]]
 album = "1"

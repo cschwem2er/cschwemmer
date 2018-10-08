@@ -13,7 +13,7 @@ image_preview = "pathways_keyness.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["multilinguistic corpus"]
+#tags = ["multilinguistic corpus"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://cschwem2er.github.io/pathways/"

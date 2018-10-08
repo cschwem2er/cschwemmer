@@ -10,13 +10,13 @@
     <div class="pub-title">
       <h1 itemprop="name">{{ .Title }}</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
-      <span class="pull-right">
+      <span class="float-right">
         {{ partial "share.html" . }}
       </span>
     </div>
 
     {{ with .Params.external_link }}
-    <a class="btn btn-primary btn-outline" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
+    <a class="btn btn-outline-primary my-1" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
     {{ end }}
 
     <div class="article-style" itemprop="articleBody">
@@ -49,11 +49,11 @@
       {{ end }}
 
       {{ $items := where (where .Site.RegularPages "Type" "talk") ".Params.projects" "intersect" (slice $project) }}
-      {{ $items := $items | union (where (where .Site.RegularPages "Type" "publication") ".Params.url_project" $project_path) }}
+      {{ $items := $items | union (where (where .Site.RegularPages "Type" "talk") ".Params.url_project" $project_path) }}
       {{ $talks_len := len $items }}
       {{ if ge $talks_len 1 }}
         <h2>{{ (i18n "talks") }}</h2>
-        {{ range $items }}
+        {{ range sort $items ".Params.time_start" "desc" }}
           {{ partial "talk_li_simple" . }}
         {{ end }}
       {{ end }}
