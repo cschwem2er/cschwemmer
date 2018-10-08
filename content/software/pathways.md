@@ -16,7 +16,7 @@ image_preview = "pathways_keyness.png"
 tags = ["multilinguistic corpus"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://methodds.github.io/pathways/"
+external_link = "https://cschwem2er.github.io/pathways/"
 
 # Does the project detail page use math formatting?
 math = false

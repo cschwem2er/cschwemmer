@@ -16,7 +16,7 @@ image_preview = "stminsights_interface.png"
 tags = ["topic modeling"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://methodds.github.io/stminsights/"
+external_link = "https://cschwem2er.github.io/stminsights/"
 
 # Does the project detail page use math formatting?
 math = false

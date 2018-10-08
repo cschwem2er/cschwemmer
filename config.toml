@@ -244,7 +244,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/methodds"
+    link = "//github.com/cschwem2er"
     
       [[params.social]]
     icon = "orcid"
