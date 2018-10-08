@@ -32,7 +32,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -48,7 +48,7 @@ enableGitInfo = true
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  #color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -233,7 +233,7 @@ enableGitInfo = true
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/c_schwemmer"
 
   [[params.social]]
@@ -243,7 +243,7 @@ enableGitInfo = true
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/cschwem2er"
     
       [[params.social]]
@@ -258,7 +258,7 @@ enableGitInfo = true
     
       [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/carsten-schwemmer-22629b84/"
 
 

@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-
+date = 2018-10-08
 
 # Project title.
 title = "stminsights"
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "stminsights_interface.png"
 caption = "My caption :smile:"
 
 +++
