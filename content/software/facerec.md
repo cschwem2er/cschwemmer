@@ -12,10 +12,10 @@ image_preview = "sw_facerec.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["face recognition"]
+#tags = ["face-recognition"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://cschwem2er.github.io/facerec/"
+external_link = "https://cschwem2er.github.io/facerec"
 
 # Does the project detail page use math formatting?
 math = false

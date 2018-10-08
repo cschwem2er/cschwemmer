@@ -13,7 +13,7 @@ image_preview = "stminsights_interface.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["topic modeling"]
+#tags = ["topic modeling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://cschwem2er.github.io/stminsights/"
