@@ -1,7 +1,7 @@
 +++
 title = "Ride with Me - Ethnic Discrimination, Social Markets and the Sharing Economy"
 date = "2018-07-03"
-authors = ["J. Dag Tjaden","C. Schwemmer","M. Khadjavi"]
+authors = ["J. D. Tjaden","C. Schwemmer","M. Khadjavi"]
 publication_types = ["2"]
 publication = "_European Sociological Review_"
 publication_short = ""
