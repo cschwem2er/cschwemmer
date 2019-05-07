@@ -9,8 +9,7 @@ abstract = "Since its foundation in 2005, YouTube, which is considered to be the
 image_preview = true
 selected = true
 projects = []
-url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1177/2056305118786720"}]
-url_preprint = "https://osf.io/preprints/socarxiv/tskjb/"
+url_custom = [{name = "DOI", url = "http://dx.doi.org/10.1177/2056305118786720"}, {name = "Replication Files", url = "https://doi.org/10.7910/DVN/KENMVB"}]
 math = true
 highlight = true
 image = "bibi_yt_final.png"
