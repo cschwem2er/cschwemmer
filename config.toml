@@ -10,7 +10,7 @@ title = "Carsten Schwemmer"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Carsten Schwemmer"
+copyright = "&copy; 2019 Carsten Schwemmer"
 
 theme = "hugo-academic"
 enableEmoji = true
