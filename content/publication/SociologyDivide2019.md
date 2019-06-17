@@ -9,7 +9,7 @@ abstract = "Past research indicates that Sociology is a low-consensus discipline
 image_preview = true
 selected = true
 projects = []
-url_custom = [{name = "Replication Files", url = "https://doi.org/10.7910/DVN/P329Z0"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1177/0038038519853146"}, {name = "Replication Files", url = "https://doi.org/10.7910/DVN/P329Z0"}]
 url_preprint = "https://osf.io/preprints/socarxiv/s59bp"
 math = true
 highlight = true
