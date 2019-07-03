@@ -8,7 +8,7 @@ title = "imgrec"
 summary = "An Interface for Image Recognition in R"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "sw_facerec.png"
+image_preview = "sw_logo_rec.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
