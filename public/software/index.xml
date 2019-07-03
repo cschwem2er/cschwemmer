@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>facerec</title>
-      <link>https://www.carstenschwemmer.com/software/facerec/</link>
+      <title>imgrec</title>
+      <link>https://www.carstenschwemmer.com/software/imgrec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/software/facerec/</guid>
-      <description>Provides an interface to the &amp;lsquo;Kairos&amp;rsquo; Face Recognition API https://kairos.com/face-recognition-api. The API detects faces in images and returns estimates for demographics like gender, ethnicity and age.</description>
+      <guid>https://www.carstenschwemmer.com/software/imgrec/</guid>
+      <description>Provides an interface to the Google Vision Image Recognition API https://cloud.google.com/vision/.</description>
     </item>
     
     <item>
