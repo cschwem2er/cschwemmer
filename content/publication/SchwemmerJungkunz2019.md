@@ -1,6 +1,6 @@
 +++
 title = "Whose ideas are worth spreading? The representation of women and ethnic groups in TED talks"
-date = "2019-07-19"
+date = "2019-07-13"
 authors = ["C. Schwemmer","S. Jungkunz"]
 publication_types = ["2"]
 publication = "_Political Research Exchange (forthcoming)_"
