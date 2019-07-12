@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on Carsten Schwemmer</title>
-    <link>/software/</link>
+    <link>https://www.carstenschwemmer.com/software/</link>
     <description>Recent content in Softwares on Carsten Schwemmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
     <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carstenschwemmer.com/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>stminsights</title>
-      <link>/software/stminsights/</link>
+      <link>https://www.carstenschwemmer.com/software/stminsights/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/software/stminsights/</guid>
+      <guid>https://www.carstenschwemmer.com/software/stminsights/</guid>
       <description>This app enables interactive validation, interpretation and visualization of structural topic models from the &amp;lsquo;stm&amp;rsquo; package by Roberts and others (2014) doi:10.1111/ajps.12103. It also includes helper functions for model diagnostics and extracting data from effect estimates.</description>
     </item>
     
     <item>
       <title>imgrec</title>
-      <link>/software/imgrec/</link>
+      <link>https://www.carstenschwemmer.com/software/imgrec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/software/imgrec/</guid>
+      <guid>https://www.carstenschwemmer.com/software/imgrec/</guid>
       <description>Provides an interface to the Google Vision Image Recognition API https://cloud.google.com/vision/.</description>
     </item>
     
     <item>
       <title>pathways</title>
-      <link>/software/pathways/</link>
+      <link>https://www.carstenschwemmer.com/software/pathways/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/software/pathways/</guid>
+      <guid>https://www.carstenschwemmer.com/software/pathways/</guid>
       <description>This app enables interactive exploration of the Pathways Corpus. It includes parliamentary written questions from eight European democracies: Belgium, France, Germany, Greece, Italy, Netherlands, Spain and United Kingdom.</description>
     </item>
     
