@@ -2,112 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Carsten Schwemmer</title>
-    <link>https://www.carstenschwemmer.com/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Carsten Schwemmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.carstenschwemmer.com/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Whose ideas are worth spreading? The representation of women and ethnic groups in TED talks</title>
+      <link>/publication/schwemmerjungkunz2019/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/schwemmerjungkunz2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Methodological Divide of Sociology - Evidence From Two Decades of Journal Publications</title>
-      <link>https://www.carstenschwemmer.com/publication/sociologydivide2019/</link>
+      <link>/publication/sociologydivide2019/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/sociologydivide2019/</guid>
+      <guid>/publication/sociologydivide2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media Bias Towards African-Americans Before and After the Charlottesville Rally</title>
-      <link>https://www.carstenschwemmer.com/publication/leschkeschwemmer2019/</link>
+      <link>/publication/leschkeschwemmer2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/leschkeschwemmer2019/</guid>
+      <guid>/publication/leschkeschwemmer2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collective Sense-Making in Times of Crisis: Connecting Terror Management Theory with Twitter Reactions to the Berlin Terrorist Attack</title>
-      <link>https://www.carstenschwemmer.com/publication/tmtberlin2019/</link>
+      <link>/publication/tmtberlin2019/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/tmtberlin2019/</guid>
+      <guid>/publication/tmtberlin2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MPs&#39; Principals and the Substantive Representation of Disadvantaged Immigrant Groups</title>
-      <link>https://www.carstenschwemmer.com/publication/geeseschwemmer2019/</link>
+      <link>/publication/geeseschwemmer2019/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/geeseschwemmer2019/</guid>
+      <guid>/publication/geeseschwemmer2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Media Sellout - The Increasing Role of Product Promotion on YouTube</title>
-      <link>https://www.carstenschwemmer.com/publication/youtubesellout2018/</link>
+      <link>/publication/youtubesellout2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/youtubesellout2018/</guid>
+      <guid>/publication/youtubesellout2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ride with Me - Ethnic Discrimination, Social Markets and the Sharing Economy</title>
-      <link>https://www.carstenschwemmer.com/publication/tjaden2018/</link>
+      <link>/publication/tjaden2018/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/tjaden2018/</guid>
+      <guid>/publication/tjaden2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terror Management and Twitter: The Case of the 2016 Berlin Terrorist Attack</title>
-      <link>https://www.carstenschwemmer.com/publication/fischer2018/</link>
+      <link>/publication/fischer2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/fischer2018/</guid>
+      <guid>/publication/fischer2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Candidate Selection Rules and Electoral Vulnerability on Legislative Behavior in Comparative Perspective</title>
-      <link>https://www.carstenschwemmer.com/publication/fernandes2018/</link>
+      <link>/publication/fernandes2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/fernandes2018/</guid>
+      <guid>/publication/fernandes2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment</title>
-      <link>https://www.carstenschwemmer.com/publication/jungkunz2018/</link>
+      <link>/publication/jungkunz2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/jungkunz2018/</guid>
+      <guid>/publication/jungkunz2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Reconstruction of Parliamentary Questions. Combining Metadata with an OCR Process</title>
-      <link>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</link>
+      <link>/publication/fitsilissaalfeldschwemmer2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</guid>
+      <guid>/publication/fitsilissaalfeldschwemmer2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election proximity and representation focus in party-constrained environments</title>
-      <link>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</link>
+      <link>/publication/fernandesbandeiraschwemmer2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</guid>
+      <guid>/publication/fernandesbandeiraschwemmer2017/</guid>
       <description></description>
     </item>
     
