@@ -9,7 +9,7 @@ abstract = "We investigate the representation of women and ethnic groups in TED 
 image_preview = true
 selected = true
 projects = []
-url_custom = [{name = "Replication Files", url = "https://doi.org/10.7910/DVN/EUDWP3"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/2474736X.2019.1646102"}, {name = "Replication Files", url = "https://doi.org/10.7910/DVN/EUDWP3"}]
 url_preprint = "https://www.carstenschwemmer.com/files/ted_talks_representation_schwemmer_jungkunz.pdf"
 math = true
 highlight = true
