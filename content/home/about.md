@@ -38,7 +38,7 @@ weight = 5
 
 # About
 
-I am PhD candidate in the field of Computational Social Science and a lecturer for the Chair of Political Sociology at University of Bamberg. From March 2019 to August 2019, I am also a junior fellow at the Weizenbaum Internet Institute in Berlin. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
+I am PhD candidate in the field of Computational Social Science and a lecturer for the Chair of Political Sociology at University of Bamberg. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
