@@ -20,7 +20,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
   [[education.courses]]
-  course = "PhD"
+  course = "PhD, Title: Computional Methods for the Social Science - Applications to the Study of Ethnic Minorities"
   institution = "University of Bamberg"
   year = 2019
 
@@ -38,7 +38,7 @@ weight = 5
 
 # About
 
-I am postdoc working in the field of Computational Social Science at Princeton University, Center for Information Technology Policy and at the University of Stuttgart. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
+I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
