@@ -61,12 +61,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Bamberg", url = "https://www.uni-bamberg.de/en/" } ]
+  organizations = [ { name = "Princeton University", url = "https://citp.princeton.edu/" },
+  { name = "University of Stuttgart", url = "https://www.sowi.uni-stuttgart.de/abteilungen/css/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "polsoz_bild_cs.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "c.schwem2er@gmail.com"
-  address = "Chair of Political Sociology, Feldkirchenstr. 21, University of Bamberg, 96052 Germany"
+  address = "Princeton University, Center for Information Technology Policy, 303 Sherrerd Hall, Princeton, NJ 08544, USA"
   office_hours = ""
   phone = ""
   skype = ""

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.carstenschwemmer.com/software/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>stminsights</title>
       <link>https://www.carstenschwemmer.com/software/stminsights/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/software/stminsights/</guid>
       <description>This app enables interactive validation, interpretation and visualization of structural topic models from the &amp;lsquo;stm&amp;rsquo; package by Roberts and others (2014) doi:10.1111/ajps.12103. It also includes helper functions for model diagnostics and extracting data from effect estimates.</description>

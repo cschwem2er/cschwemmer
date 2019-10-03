@@ -19,10 +19,10 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
- # [[education.courses]]
- # course = "PhD"
- # institution = "University of Bamberg"
- # year = 2019
+  [[education.courses]]
+  course = "PhD"
+  institution = "University of Bamberg"
+  year = 2019
 
  [[education.courses]]
   course = "M.A. Sociology, Specialization in Empirical Research and Computational Methods"
@@ -38,8 +38,8 @@ weight = 5
 
 # About
 
-I am PhD candidate in the field of Computational Social Science and a lecturer for the Chair of Political Sociology at University of Bamberg. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
+I am postdoc working in the field of Computational Social Science at Princeton University, Center for Information Technology Policy and at the University of Stuttgart. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
-In addition to research, I taught courses about Data Analysis, Data Mining and Quantitative Text Analysis at University of Bamberg, University of Constance and Humboldt University of Berlin.
+In addition to research, I taught courses about Data Analysis, Data Mining, Quantitative Text Analysis and Political Sociology at University of Bamberg, University of Constance and Humboldt University of Berlin.
