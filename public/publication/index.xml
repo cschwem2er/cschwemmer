@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://www.carstenschwemmer.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Methodological Divide of Sociology - Evidence From Two Decades of Journal Publications</title>
+      <link>https://www.carstenschwemmer.com/publication/sociologydivide2019/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carstenschwemmer.com/publication/sociologydivide2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The networking of influencers - an analysis of the German YouTube scene</title>
@@ -18,6 +27,15 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.carstenschwemmer.com/publication/youtubeinfluencerdeutschland2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Sense-Making in Times of Crisis: Connecting Terror Management Theory with Twitter Reactions to the Berlin Terrorist Attack</title>
+      <link>https://www.carstenschwemmer.com/publication/tmtberlin2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carstenschwemmer.com/publication/tmtberlin2019/</guid>
       <description></description>
     </item>
     
@@ -31,15 +49,6 @@
     </item>
     
     <item>
-      <title>The Methodological Divide of Sociology - Evidence From Two Decades of Journal Publications</title>
-      <link>https://www.carstenschwemmer.com/publication/sociologydivide2019/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/publication/sociologydivide2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Media Bias Towards African-Americans Before and After the Charlottesville Rally</title>
       <link>https://www.carstenschwemmer.com/publication/leschkeschwemmer2019/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
@@ -49,11 +58,11 @@
     </item>
     
     <item>
-      <title>Collective Sense-Making in Times of Crisis: Connecting Terror Management Theory with Twitter Reactions to the Berlin Terrorist Attack</title>
-      <link>https://www.carstenschwemmer.com/publication/tmtberlin2019/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      <title>Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment</title>
+      <link>https://www.carstenschwemmer.com/publication/jungkunz2018/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.carstenschwemmer.com/publication/tmtberlin2019/</guid>
+      <guid>https://www.carstenschwemmer.com/publication/jungkunz2018/</guid>
       <description></description>
     </item>
     
@@ -63,6 +72,15 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.carstenschwemmer.com/publication/geeseschwemmer2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Election proximity and representation focus in party-constrained environments</title>
+      <link>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</guid>
       <description></description>
     </item>
     
@@ -103,29 +121,11 @@
     </item>
     
     <item>
-      <title>Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment</title>
-      <link>https://www.carstenschwemmer.com/publication/jungkunz2018/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/publication/jungkunz2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Content Reconstruction of Parliamentary Questions. Combining Metadata with an OCR Process</title>
       <link>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Election proximity and representation focus in party-constrained environments</title>
-      <link>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</guid>
       <description></description>
     </item>
     

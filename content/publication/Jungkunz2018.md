@@ -1,6 +1,6 @@
 +++
 title = "Xenophobia before and after the Paris 2015 Attacks. Evidence from a Natural Experiment"
-date = "2018-02-01"
+date = "2019-04-01"
 authors = ["S. Jungkunz","M. Helbling","C. Schwemmer"]
 publication_types = ["2"]
 publication = "_Ethnicities_"

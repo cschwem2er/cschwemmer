@@ -1,6 +1,6 @@
 +++
 title = "Election proximity and representation focus in party-constrained environments"
-date = "2017-02-01"
+date = "2018-11-01"
 authors = ["J. M. Fernandes","C. Leston-Bandeira","C. Schwemmer"]
 publication_types = ["2"]
 publication = "_Party Politics_"

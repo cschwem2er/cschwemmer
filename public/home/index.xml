@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.carstenschwemmer.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://www.carstenschwemmer.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Carsten Schwemmer</title>
       <link>https://www.carstenschwemmer.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -34,7 +34,7 @@
     <item>
       <title></title>
       <link>https://www.carstenschwemmer.com/home/about/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/about/</guid>
       <description>About I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority and social media studies. I&amp;rsquo;m particularly interested in natural language processing, data mining and the development of research software.
@@ -53,7 +53,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Selected Publications</title>
       <link>https://www.carstenschwemmer.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/publications_selected/</guid>
       <description></description>
@@ -62,7 +62,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Publications</title>
       <link>https://www.carstenschwemmer.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/publications/</guid>
       <description></description>
@@ -71,7 +71,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Projects</title>
       <link>https://www.carstenschwemmer.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/projects/</guid>
       <description></description>
@@ -80,7 +80,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.carstenschwemmer.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/talks/</guid>
       <description></description>
@@ -89,7 +89,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Recent Posts</title>
       <link>https://www.carstenschwemmer.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/posts/</guid>
       <description></description>
@@ -98,7 +98,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Software</title>
       <link>https://www.carstenschwemmer.com/home/software/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/software/</guid>
       <description></description>
@@ -107,7 +107,7 @@ Results of my work have been published in journals such as Computers in Human Be
     <item>
       <title>Teaching</title>
       <link>https://www.carstenschwemmer.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -118,7 +118,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>https://www.carstenschwemmer.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/tags/</guid>
       <description></description>
@@ -127,7 +127,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>https://www.carstenschwemmer.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://www.carstenschwemmer.com/home/contact/</guid>
       <description></description>

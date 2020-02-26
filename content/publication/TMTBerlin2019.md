@@ -1,6 +1,6 @@
 +++
 title = "Collective Sense-Making in Times of Crisis: Connecting Terror Management Theory with Twitter Reactions to the Berlin Terrorist Attack"
-date = "2019-05-10"
+date = "2019-11-01"
 authors = ["D. Fischer-Preßler, C. Schwemmer","K. Fischbach"]
 publication_types = ["2"]
 publication = "_Computers in Human Behavior_"

@@ -1,6 +1,6 @@
 +++
 title = "The Methodological Divide of Sociology - Evidence From Two Decades of Journal Publications"
-date = "2019-06-17"
+date = "2020-02-01"
 authors = ["C. Schwemmer","O. Wieczorek"]
 publication_types = ["2"]
 publication = "_Sociology_"
@@ -10,7 +10,6 @@ image_preview = true
 selected = true
 projects = []
 url_custom = [{name = "DOI", url = "https://doi.org/10.1177/0038038519853146"}, {name = "Replication Files", url = "https://doi.org/10.7910/DVN/P329Z0"}]
-url_preprint = "https://osf.io/preprints/socarxiv/s59bp"
 math = true
 highlight = true
 image = "socsci_wordfish.png"

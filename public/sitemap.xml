@@ -4,8 +4,24 @@
     
     <url>
     
+      <loc>https://www.carstenschwemmer.com/publication/sociologydivide2019/</loc>
+      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.carstenschwemmer.com/publication/youtubeinfluencerdeutschland2019/</loc>
       <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/publication/tmtberlin2019/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -20,14 +36,6 @@
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication/sociologydivide2019/</loc>
-      <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.carstenschwemmer.com/publication/leschkeschwemmer2019/</loc>
       <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     </url>
@@ -36,8 +44,8 @@
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication/tmtberlin2019/</loc>
-      <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+      <loc>https://www.carstenschwemmer.com/publication/jungkunz2018/</loc>
+      <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -52,8 +60,16 @@
     
     <url>
     
+      <loc>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.carstenschwemmer.com/software/stminsights/</loc>
-      <lastmod>2018-10-08T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-08T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -92,14 +108,6 @@
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication/jungkunz2018/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.carstenschwemmer.com/publication/fitsilissaalfeldschwemmer2017/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -108,16 +116,8 @@
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</loc>
-      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.carstenschwemmer.com/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -125,7 +125,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -133,7 +133,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -141,7 +141,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -149,7 +149,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -166,7 +166,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/publication_types/2/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -175,7 +175,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -201,7 +201,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/software/</loc>
-      <lastmod>2018-10-08T00:00:00+02:00</lastmod>
+      <lastmod>2018-10-08T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -210,7 +210,7 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
