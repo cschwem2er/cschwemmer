@@ -1,6 +1,6 @@
 +++
 title = "The Impact of Candidate Selection Rules and Electoral Vulnerability on Legislative Behavior in Comparative Perspective"
-date = "2018-04-01"
+date = "2019-02-01"
 authors = ["J. M. Fernandes","L. Geese","C. Schwemmer"]
 publication_types = ["2"]
 publication = "_European Journal of Political Research_"

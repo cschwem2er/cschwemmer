@@ -11,34 +11,34 @@ weight = 5
 [interests]
   interests = [
     "Computational Social Science",
-    "Political Sociology",
+    "Sociotechnical Systems",
     "Social Media",
-    "Ethnic Minority Studies",
-    "Xenophobia"
+    "Political Sociology",
+    "Ethnic Minority & Gender Studies"
   ]
 
 # List your qualifications (such as academic degrees).
 
-  [[education.courses]]
-  course = "PhD, Title: Computional Methods for the Social Science - Applications to the Study of Ethnic Minorities"
-  institution = "University of Bamberg"
-  year = 2019
+# [[education.courses]]
+ # course = "PhD, Title: Computional Methods for the Social Science - Applications to the Study of Ethnic Minorities"
+  #institution = "University of Bamberg"
+  #year = 2019
 
- [[education.courses]]
-  course = "M.A. Sociology, Specialization in Empirical Research and Computational Methods"
-  institution = "University of Bamberg"
-  year = 2015
+ #[[education.courses]]
+#  course = "M.A. Sociology, Specialization in Empirical Research and Computational Methods"
+ # institution = "University of Bamberg"
+  #year = 2015
   
- [[education.courses]]
-  course = "B.A. Sociology"
-  institution = "University of Bamberg"
-  year = 2013
+ #[[education.courses]]
+  #course = "B.A. Sociology"
+  #institution = "University of Bamberg"
+  #year = 2013
 
 +++
 
 # About
 
-I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority and social media studies. I'm particularly interested in natural language processing, data mining and the development of research software.
+I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, political communication, social media studies and sociotechnical systems. I'm particularly interested in methods related to natural language processing, image recognittion and.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
