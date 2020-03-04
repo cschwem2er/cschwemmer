@@ -8,14 +8,14 @@ date = 2018-05-27T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Computational Social Science",
-    "Sociotechnical Systems",
-    "Social Media",
-    "Political Sociology",
-    "Ethnic Minority & Gender Studies"
-  ]
+# [interests]
+#   interests = [
+#     "Computational Social Science",
+  #   "Sociotechnical Systems",
+    # "Social Media",
+  #   "Political Sociology",
+  #   "Ethnic Minority & Gender Studies"
+  # ]
 
 # List your qualifications (such as academic degrees).
 
@@ -38,7 +38,7 @@ weight = 5
 
 # About
 
-I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, political communication, social media studies and sociotechnical systems. I'm particularly interested in methods related to natural language processing, image recognittion and.
+I am postdoc working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, political communication, social media platforms and sociotechnical systems. I'm particularly interested in methods related to natural language processing, image recognittion and.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
