@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -94,7 +94,7 @@
     <item>
       <title>stminsights</title>
       <link>https://www.carstenschwemmer.com/software/stminsights/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://www.carstenschwemmer.com/software/stminsights/</guid>
       <description>&lt;p&gt;This app enables interactive validation, interpretation and visualization of structural topic models from the &amp;lsquo;stm&amp;rsquo; package by Roberts and others (2014) &lt;a href=&#34;doi:10.1111/ajps.12103&#34; target=&#34;_blank&#34;&gt;doi:10.1111/ajps.12103&lt;/a&gt;. It also includes helper functions for model diagnostics and extracting data from effect estimates.&lt;/p&gt;
@@ -140,7 +140,7 @@
     <item>
       <title>Example Talk</title>
       <link>https://www.carstenschwemmer.com/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://www.carstenschwemmer.com/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
