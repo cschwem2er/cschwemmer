@@ -38,8 +38,8 @@ weight = 5
 
 # About
 
-I am Senior Research Associate working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, political communication, digital platforms and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
+I am Senior Research Associate working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
-In addition to research, I taught courses about Data Analysis, Data Mining, Quantitative Text Analysis and Political Sociology at University of Bamberg, University of Constance and Humboldt University of Berlin.
+In addition to research, I taught courses about Data Analysis, Data Mining, Quantitative Text Analysis and Political Sociology at University of Bamberg, University of Constance, Humboldt University of Berlin and University of Stuttgart.
