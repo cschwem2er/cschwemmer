@@ -42,4 +42,4 @@ I am Senior Research Associate working in the field of Computational Social Scie
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
-In addition to research, I taught courses about Data Analysis, Data Mining, Quantitative Text Analysis and Political Sociology at University of Bamberg, University of Constance, Humboldt University of Berlin and University of Stuttgart.
+In addition to research, I taught courses about Data Analysis, Data Mining, Quantitative Text Analysis and Political Sociology at University of Bamberg, University of Konstanz, Humboldt University of Berlin and University of Stuttgart.

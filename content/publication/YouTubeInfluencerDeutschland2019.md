@@ -9,7 +9,7 @@ abstract = "Social media are increasingly important for adolescents in Germany. 
 image_preview = true
 selected = true
 projects = []
-url_custom = [{name = "Socarxiv", url = "http://dx.doi.org/10.1177/2056305118786720"}, {name = "Publisher URL", url = "https://www.merz-zeitschrift.de/alle-ausgaben/details/2019-06-meinungsbildung-in-sich-wandelnden-ffentlichkeiten/"}]
+url_custom = [{name = "Socarxiv", url = "https://osf.io/preprints/socarxiv/hj8d4/"}, {name = "Publisher URL", url = "https://www.merz-zeitschrift.de/alle-ausgaben/details/2019-06-meinungsbildung-in-sich-wandelnden-ffentlichkeiten/"}]
 math = true
 highlight = true
 image = "ytnetworks_dagibee.png"
