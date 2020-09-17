@@ -61,13 +61,12 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Princeton University", url = "https://citp.princeton.edu/" },
-  { name = "University of Stuttgart", url = "https://www.sowi.uni-stuttgart.de/abteilungen/css/" } ]
+  organizations = [ { name = "GESIS - Computational Social Science Department", url = "https://www.gesis.org/en/institute/departments/computational-social-science" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "polsoz_bild_cs.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "c.schwem2er@gmail.com"
-  address = "Princeton University, Center for Information Technology Policy, 303 Sherrerd Hall, Princeton, NJ 08544, USA"
+  address = "GESIS - Leibniz-Institut für Sozialwissenschaften, Unter Sachsenhausen 6-8, 50667 Köln, Germany"
   office_hours = ""
   phone = ""
   skype = ""
@@ -101,8 +100,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "40.349747"
-  longitude = "-74.652388"
+  latitude = "50.942580"
+  longitude = "6.952186"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Carsten Schwemmer</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.carstenschwemmer.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diagnosing Gender Bias in Image Recognition Systems</title>
+      <link>https://www.carstenschwemmer.com/publication/imagegenderbias2020/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carstenschwemmer.com/publication/imagegenderbias2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Methodological Divide of Sociology - Evidence From Two Decades of Journal Publications</title>

@@ -38,7 +38,7 @@ weight = 5
 
 # About
 
-I am Senior Research Associate working in the field of Computational Social Science at Princeton University and the University of Stuttgart. My research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
+I am Postdoctoral Researcher working in the field of Computational Social Science at GESIS - Leibniz Institute for the Social Sciences. My research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
