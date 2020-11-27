@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication/polmail2020/</loc>
-      <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+      <loc>https://www.carstenschwemmer.com/publication_types/2/</loc>
+      <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/</loc>
+      <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -13,7 +20,23 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/publication/imagegenderbias2020/</loc>
-      <lastmod>2020-09-03T00:00:00+00:00</lastmod>
+      <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/publication_types/</loc>
+      <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/publication/polmail2020/</loc>
+      <lastmod>2020-10-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -46,6 +69,14 @@
     
       <loc>https://www.carstenschwemmer.com/publication/tedrepresentation2019/</loc>
       <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/publication_types/1/</loc>
+      <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -86,6 +117,14 @@
     
       <loc>https://www.carstenschwemmer.com/publication/fernandesbandeiraschwemmer2017/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/software/</loc>
+      <lastmod>2018-10-08T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -172,62 +211,7 @@
     
     <url>
     
-      <loc>https://www.carstenschwemmer.com/publication_types/1/</loc>
-      <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.carstenschwemmer.com/publication_types/2/</loc>
-      <lastmod>2020-10-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.carstenschwemmer.com/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://www.carstenschwemmer.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.carstenschwemmer.com/publication_types/</loc>
-      <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.carstenschwemmer.com/software/</loc>
-      <lastmod>2018-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://www.carstenschwemmer.com/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -242,6 +226,13 @@
     <url>
     
       <loc>https://www.carstenschwemmer.com/software/pathways/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.carstenschwemmer.com/tags/</loc>
     </url>
     
   
