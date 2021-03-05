@@ -39,7 +39,7 @@ weight = 5
 # About
 
 
-I am an Interim Professor for Political Sociology at University of Bamberg and a Postdoctoral Researcher working in the field of Computational Social Science at GESIS. My research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
+I a Postdoctoral Researcher working in the field of Computational Social Science at GESIS and University of Bamberg. My research focuses on applying computational methods for ethnic minority & gender studies, digital media, political communication and sociotechnical systems. I am particularly interested in methods related to natural language processing, image recognition and data mining.
 
 Results of my work have been published in journals such as *Computers in Human Behavior*, *European Sociological Review*, *Social Media + Society*, *European Journal of Political Research* and *West European Politics*.
 
